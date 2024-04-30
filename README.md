@@ -4,6 +4,9 @@ The Automated Distance Measurement Scanner is an Arduino-based project that empl
 
 Features
 Angular Scanning: The servo motor rotates the ultrasonic sensor from 15 to 165 degrees, allowing it to scan a wide area.
+
 Real-Time Data Logging: Measures and logs distance data in real-time via the Arduino's serial port, which can be used for further analysis.
+
 Customizable: Users can modify the scan range and speed by adjusting the code parameters.
+
 Low Cost and Accessible: Utilizes commonly available components that are easy to assemble and program.
